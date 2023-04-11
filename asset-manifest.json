@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/climatic-web-page/static/css/main.a63efba6.css",
+    "main.js": "/climatic-web-page/static/js/main.51bb46b4.js",
+    "static/js/787.881d2e84.chunk.js": "/climatic-web-page/static/js/787.881d2e84.chunk.js",
+    "static/media/logo.png": "/climatic-web-page/static/media/logo.903d40ea0714df1416dc.png",
+    "index.html": "/climatic-web-page/index.html",
+    "main.a63efba6.css.map": "/climatic-web-page/static/css/main.a63efba6.css.map",
+    "main.51bb46b4.js.map": "/climatic-web-page/static/js/main.51bb46b4.js.map",
+    "787.881d2e84.chunk.js.map": "/climatic-web-page/static/js/787.881d2e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63efba6.css",
+    "static/js/main.51bb46b4.js"
+  ]
+}
